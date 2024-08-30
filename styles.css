@@ -38,6 +38,11 @@
 
 /* BREAKPOINTS: END */
 
+USYDE {
+    background-image: image("banner.png");
+    background-size: 20px;
+    height: 20px;
+}
 
 .parallax {
     background: url("/imgs/BoneCells.jpg") no-repeat center;
